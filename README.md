@@ -41,11 +41,11 @@ The dataset includes the following files:
 5. **Generating Predictions**: Generate rating predictions for the test set.
 6. **Deployment**: Deploy the model using Flask to expose a recommendation API.
 # Project Files
-'anime_recommender.ipynb': Jupyter notebook containing the full implementation.
-'anime.csv': Dataset file with anime information.
-'train.csv': Dataset file with user ratings.
-'test.csv': Dataset file for generating predictions.
-'submission.csv': Example submission format.
+- 'anime_recommender.ipynb': Jupyter notebook containing the full implementation.
+- 'anime.csv': Dataset file with anime information.
+- 'train.csv': Dataset file with user ratings.
+- 'test.csv': Dataset file for generating predictions.
+- 'submission.csv': Example submission format.
 # Conclusion
 This project demonstrates an end-to-end workflow for building, evaluating, and deploying a recommender system for anime titles. By leveraging both collaborative filtering and content-based filtering techniques, we aim to provide accurate and personalized recommendations for users.
 
