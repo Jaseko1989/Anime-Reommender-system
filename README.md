@@ -1,4 +1,4 @@
-# Anime Recommender System
+# Designing of Anime Recommender System
 
 ## Project Overview
 This project is an end-to-end implementation of an anime recommender system. The goal is to predict user ratings for unseen anime titles based on historical preferences. The project includes data loading, preprocessing, model training, evaluation, and final deployment.
